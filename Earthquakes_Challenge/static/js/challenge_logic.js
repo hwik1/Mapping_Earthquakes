@@ -139,7 +139,7 @@ d3.json("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geoj
       // This function determines the color of the marker based on the magnitude of the earthquake.
     function getColor(magnitude) {
         if (magnitude > 6.0) {
-        return "#98ee00";
+        return "#eb0c00";
         }
         if (magnitude > 5.0) {
         return "#ee6b00";
