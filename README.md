@@ -1,4 +1,4 @@
-# Mapping_Earthquakes
+# Mapping Earthquakes
 Module 13 challenge prepared by Hannah Wikum - March 2022
 ___
 ## Resources
